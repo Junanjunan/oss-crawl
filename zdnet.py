@@ -7,7 +7,6 @@ date_format = '%Y.%m.%d'
 
 check_day = 1
 
-# 지디넷 코리아(키워드 검색: 오픈소스 / 제목만) :
 url_opensource = 'https://search.zdnet.co.kr/?kwd=%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4&area=1&term='
 url_platform = 'https://search.zdnet.co.kr/?kwd=%ED%94%8C%EB%9E%AB%ED%8F%BC&area=1&term='
 url_sw = 'https://search.zdnet.co.kr/?kwd=sw&area=1&term='
